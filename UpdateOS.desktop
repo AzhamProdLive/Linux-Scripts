@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Update EndeavourOS (full)
+Comment=Fully update system and AUR, then ask to reboot
+Exec=/home/%u/updateOS.sh 
+#!!!!!
+#THE .sh  FILE NEEDS TO BE IN THE /HOME OF THE USER, THIS WILL NOT WORK OTHERWISE.
+#!!!!! 
+Icon=system-software-update
+Terminal=true
+Type=Application
+Categories=System;
