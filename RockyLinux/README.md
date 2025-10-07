@@ -1,0 +1,1 @@
+This folder contains every scripts I used for my Rocky Linux server, in order to use them quicker.
